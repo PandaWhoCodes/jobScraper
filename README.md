@@ -4,8 +4,11 @@ Doesnt have any interface of the sort.
 #Sample Output
 
 Enter your skills seperated by space
+
 Python java
+
 Enter the location:Chennai
+
 Choose from the following
 
 1. Automation Testing -SSE -Aspire Systems India (P) Ltd.
