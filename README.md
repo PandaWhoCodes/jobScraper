@@ -37,16 +37,20 @@ Experience Required
 #Job Description
 We're looking for a Python / Django developer for our "HappyFox" team. You'd 
 be working on the following areas:
+
 1. Collaborating with our designers and developers to make high quality products
 2. Writing excellent Python & Django code to implement and release features
 3. Taking ownership of the features built and maintaining them by follwoing software engineering best practices
 4. Being creative in your own way to deliver code faster
 You must have:
+
 1. Solid experience in Python, with knowledge of atleast one Python web framework
 2. Experience in Django ORM or SQLAlchemy
 3. Experience in Version Control Systems - Mercurial , Git
 4. Good PostgreSQL experience
+
 It will be nice if you also have:
+
 1. Experience in HTML , CSS, Javascript, JQuery, MYSql
 2. Experience in developing a succesfully deployed production quality web systems
 #Contact Information:
